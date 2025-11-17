@@ -1,13 +1,13 @@
 body{
     text-align:justify;
     font-size: 60px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, sans-serif;
     background-color: rgb(209, 214, 215);
 }
 header{
     text-align: center;
     font-size: 60%;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, sans-serif;
     background-color: rgb(112, 200, 143);
 }
 .Introducción{
@@ -22,30 +22,32 @@ header{
     text-align:justify;
     font-size: 40%;
 }
-.contenedorMapaParrafoSituación{
-    display: flex;
-    align-items:center
+.Tabla{
+    width:175%;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+    background-color:#fdfdfd;
 }
-.MapaGhaelana{
-    width: 350px;
-    margin-right: 20px;
+.ParrafoSituación{
+    background-color: #fdfdfd;
+    color: black;
+    text-align: left;
+    padding: 12px;
+    width: 25%;
+    font-size: 16px;    
 }
-.ParrrafosSituación1{
-    display: flex;
-    align-items: center;
-}
-.ParrrafosSituación2{
-    display: flex;
-    align-items: center;
+.MapaTabla{
+    padding: 12px;
+    font-size: 15px;
 }
 table {
     width: 100%;
+    border: none;
     border-collapse: collapse;
     margin: 20px 0;
     font-family: Arial, sans-serif;
     background-color: #fdfdfd;
 }
-
 th {
     background-color: #3a6073;
     color: white;
@@ -69,4 +71,10 @@ img {
     max-width: 180px;
     border: 2px solid #ccc;
     border-radius: 6px;
+}
+footer{
+    text-align: center;
+    font-size: 60%;
+    font-family: Arial, sans-serif;
+    background-color: rgb(112, 200, 143);   
 }
