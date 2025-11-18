@@ -14,9 +14,13 @@ header{
     text-align:justify;
     font-size: 40%;
 }
-.ParrafoIntroducción{
+.Parrafo{
     text-align: justify;
     font-size: 35%;
+}
+.Parrafo2{
+    text-align: justify;
+    font-size: 75%;
 }
 .Situación{
     text-align:justify;
