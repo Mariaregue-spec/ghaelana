@@ -8,7 +8,7 @@ header{
     text-align: center;
     font-size: 60%;
     font-family: Arial, sans-serif;
-    background-color: rgb(112, 200, 143);
+    background-color: rgb(101, 181, 129);
 }
 .Introducción{
     text-align:justify;
@@ -80,5 +80,5 @@ footer{
     text-align: center;
     font-size: 60%;
     font-family: Arial, sans-serif;
-    background-color: rgb(112, 200, 143);   
+    background-color: rgb(101, 181, 129)   
 }
