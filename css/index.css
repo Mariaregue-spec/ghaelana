@@ -3,6 +3,7 @@ body{
     font-size: 60px;
     font-family: Arial, sans-serif;
     background-color: rgb(209, 214, 215);
+    color: rgb(77, 77, 102);
 }
 header{
     text-align: center;
@@ -34,7 +35,7 @@ header{
 }
 .ParrafoSituación{
     background-color: #fdfdfd;
-    color: black;
+    color:rgb(77, 77, 102);
     text-align: left;
     padding: 12px;
     width: 25%;
