@@ -26,7 +26,7 @@
         <img src="Image/Escudo armas Ghaelana.jpeg" alt="Escudo de armas Ghaelana">
         <img src="Image/Mapa Ghaelana.jpeg" alt="Mapa Ghaelana">
         <img src="Image/Capital Ghaelana.jpeg" alt="Foto de la Ceann Meara">
-<h3> <a href=""> Presentación</a></h3> 
+<h3> <a href="https://www.canva.com/design/DAG5CxunrBI/IoaDMmdJBNZAYDNYoG_UCQ/view?utm_content=DAG5CxunrBI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h06fc8a15f4"> Presentación</a></h3> 
 <h3>Autor</h3>
     <p>Proyecto desarrollado por <b>María Regueiro Ramil</b></p>
 
