@@ -27,11 +27,16 @@ header{
     text-align:justify;
     font-size: 40%;
 }
-.Tabla{
-    width:175%;
-    margin: 20px 0;
-    font-family: Arial, sans-serif;
-    background-color:#fdfdfd;
+.miTabla {
+    border-collapse: separate;
+    width: 100%;
+}
+
+.miTabla th,
+.miTabla td {
+  border: 1px solid black; /* reemplaza border="1" */
+  padding: 8px; /* reemplaza cellpadding="8" */
+  vertical-align: top; /* opcional, para alinear texto arriba */
 }
 .ParrafoSituación{
     background-color: #fdfdfd;
@@ -41,10 +46,7 @@ header{
     width: 25%;
     font-size: 16px;    
 }
-.MapaTabla{
-    padding: 12px;
-    font-size: 15px;
-}
+
 table {
     width: 100%;
     border: none;
