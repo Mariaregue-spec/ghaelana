@@ -1,4 +1,5 @@
 # ghaelana
+https://mariaregue-spec.github.io/ghaelana/
 <p>Este proyecto consiste en una página web estática desarrollada en HTML5 y CSS, basada en el <b>universo ficticio de la República de Ghaelana</b>. El sitio presenta la historia, cultura, simbología y elementos identitarios del país de forma clara, visual y organizada, utilizando ilustraciones y gráficos diseñados especialmente para acompañar la narrativa.</p>
 <h3>Descripción del proyecto</h3>
     <p>La web reúne en una sola página toda la información esencial sobre Ghaelana: su geografía, bandera y escudo, lengua, mitología, historia, sociedad y economía.</p>
@@ -19,7 +20,7 @@
     </ul>
 <h3>Cómo visualizar el proyecto</h3>
     <p>No se requiere instalación de dependencias ni servidor externo.</p>
-    <p>Abra el archivo <a href=""> clic aquí para ir a la página de Ghaelana</a> en cualquier navegador moderno.</p>
+    <p>Abra el archivo <a href="https://mariaregue-spec.github.io/ghaelana/"> clic aquí para ir a la página de Ghaelana</a> en cualquier navegador moderno.</p>
 <h3>Ilustraciones</h3>
      <P>Todas las imágenes utilizadas provienen de bancos de recursos libres de derechos.</p>
         <img src="Image/Bandera Ghaelana.jpeg" alt="Bandera Ghaelana">
